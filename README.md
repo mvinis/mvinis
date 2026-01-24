@@ -10,10 +10,11 @@ Currently, I'm focused on strengthening my technical foundation, improving my ca
 
 ## Connect with me
 
-<a href="www.linkedin.com/in/marcus-vinicius-de-souza-dev" target="blank">
+<a href="https://www.linkedin.com/in/marcus-vinicius-de-souza-dev" target="blank">
   <img align="center" src="./images/linkedin.svg" alt="linkedin" height="30" width="40" />
 </a>
-<a href="https://github.com/mvinis" target="blank">
+
+<a href="https://github.com/mvinis?tab=repositories" target="blank">
   <img align="center" src="./images/github.svg" alt="github" height="30" width="40" />
 </a>
 
