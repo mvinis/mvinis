@@ -29,7 +29,7 @@ Currently, I'm focused on strengthening my technical foundation, improving my ca
     <br>
 
   - **Front-end Development (Nov/2023 - Nov/2024)**
-    - Developed user interfaces using React and Material UI
+    - Developed user interfaces using React, Typescript and Material UI
     - Participated in UI prototyping and screen design workflows using Figma.
     - Implemented API integrations with backend services
     - Performed API testing and validation using Postman
