@@ -63,6 +63,7 @@ Currently, I'm focused on strengthening my technical foundation, improving my ca
 
 - Native Portuguese
 - English Level - B1
+- Spanish Level - A1
 
 ## Abilities
 
