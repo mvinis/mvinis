@@ -20,7 +20,7 @@ Currently, I'm focused on strengthening my technical foundation, improving my ca
 
 ## Experience
 
-- ### Consultant at PwC
+- ### Consultant at PricewaterhouseCoopers (PwC)
   - **Data & Analytics (Nov/2024 - Oct/2025)**
     - Migration of predictive models to Databricks
     - Validation and documentation for model governance
